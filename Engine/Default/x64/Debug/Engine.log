@@ -1,0 +1,139 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\2_13_final\Engine\Bin\Shader_Cell.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\2_13_final\Engine\Bin\Shader_Deferred.cso
+  Animation.cpp
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Animation.cpp(21,34): warning C4244: '=': 'const unsigned int'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Animation.cpp(23,35): warning C4244: '인수': 'Engine::_float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Animation.cpp(153,35): warning C4244: '인수': 'Engine::_float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Base.cpp
+  Bone.cpp
+  Bounding.cpp
+  Bounding_AABB.cpp
+  Bounding_OBB.cpp
+  Bounding_Sphere.cpp
+  Camera.cpp
+  Cell.cpp
+  Channel.cpp
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Channel.cpp(34,66): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Channel.cpp(44,67): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Channel.cpp(50,67): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Collider.cpp
+  CollisionMgr.cpp
+  Component.cpp
+  ContainerObject.cpp
+  CustomFont.cpp
+  DebugDraw.cpp
+  EffectMgr.cpp
+  Event.cpp
+  EventMgr.cpp
+  Font_Manager.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Frustum.cpp
+  GameInstance.cpp
+  GameObject.cpp
+  Graphic_Device.cpp
+  Input_Device.cpp
+  ItemMgr.cpp
+  Layer.cpp
+  Level.cpp
+  Level_Manager.cpp
+  Light.cpp
+  Light_Manager.cpp
+  Material.cpp
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Material.cpp(31,8): warning C4267: '인수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Material.cpp(52,53): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Material.cpp(111,8): warning C4267: '인수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Material.cpp(131,53): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Material.cpp(183,55): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mesh.cpp
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Mesh.cpp(245,51): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Mesh.cpp(246,56): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Mesh.cpp(253,51): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Mesh.cpp(254,56): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Mesh.cpp(261,51): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Mesh.cpp(262,56): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Mesh.cpp(269,51): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Mesh.cpp(270,56): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Model.cpp
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Model.cpp(284,18): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Model.cpp(311,18): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Model.cpp(472,16): warning C4267: '초기화 중': 'size_t'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Navigation.cpp
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Navigation.cpp(47,82): warning C4267: '인수': 'size_t'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_Manager.cpp
+  PartObject.cpp
+  PipeLine.cpp
+  Prototype_Manager.cpp
+  Renderer.cpp
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(23,42): warning C4244: '=': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(24,42): warning C4244: '=': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(27,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(31,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(35,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(39,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(43,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(54,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(58,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(62,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Renderer.cpp(66,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  RenderTarget.cpp
+  Shader.cpp
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\Shader.cpp(49,58): warning C4267: '인수': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Shadow.cpp
+  SoundMgr.cpp
+  State.cpp
+  SwordTrail_Buffer.cpp
+  Target_Manager.cpp
+  Texture.cpp
+  Timer.cpp
+  Timer_Manager.cpp
+  Transform.cpp
+  UIObject.cpp
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\UIObject.cpp(39,86): warning C4244: '인수': 'uint32_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\private\UIObject.cpp(39,69): warning C4244: '인수': 'uint32_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VIBuffer.cpp
+  VIBuffer_Cell.cpp
+  VIBuffer_Cube.cpp
+  VIBuffer_Effect_Rect_Instancing.cpp
+  VIBuffer_Mesh_Instancing.cpp
+  VIBuffer_Particle_Instancing.cpp
+  VIBuffer_Point_Instancing.cpp
+  VIBuffer_Rect.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  VIBuffer_Rect_Instancing.cpp
+  VIBuffer_Terrain.cpp
+C:\Users\tjsgh\Desktop\2_13_final\Engine\Private\VIBuffer_Terrain.cpp(44,73): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\Private\VIBuffer_Terrain.cpp(44,53): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\Private\VIBuffer_Terrain.cpp(85,18): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\Private\VIBuffer_Terrain.cpp(153,20): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\Private\VIBuffer_Terrain.cpp(155,98): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\Private\VIBuffer_Terrain.cpp(155,45): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\2_13_final\Engine\Private\VIBuffer_Terrain.cpp(181,18): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Engine_Struct.cpp
+  코드를 생성하고 있습니다...
+Effects11d.lib(EffectAPI.obj) : warning LNK4099: '' PDB를 'Effects11d.lib(EffectAPI.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(d3dxGlobal.obj) : warning LNK4099: '' PDB를 'Effects11d.lib(d3dxGlobal.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectNonRuntime.obj) : warning LNK4099: '' PDB를 'Effects11d.lib(EffectNonRuntime.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectLoad.obj) : warning LNK4099: '' PDB를 'Effects11d.lib(EffectLoad.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectReflection.obj) : warning LNK4099: '' PDB를 'Effects11d.lib(EffectReflection.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectRuntime.obj) : warning LNK4099: '' PDB를 'Effects11d.lib(EffectRuntime.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(PrimitiveBatch.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(PrimitiveBatch.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(BasicEffect.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(BasicEffect.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(VertexTypes.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(VertexTypes.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(SpriteBatch.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(SpriteBatch.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(SpriteFont.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(SpriteFont.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(DDSTextureLoader.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(DDSTextureLoader.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(WICTextureLoader.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(WICTextureLoader.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(pch.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(pch.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(EffectCommon.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(EffectCommon.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(CommonStates.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(CommonStates.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(BinaryReader.obj) : warning LNK4099: '' PDB를 'DirectXTKd.lib(BinaryReader.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+     ..\Bin\Engine.lib 라이브러리 및 ..\Bin\Engine.exp 개체를 생성하고 있습니다.
+  Engine.vcxproj -> C:\Users\tjsgh\Desktop\2_13_final\Engine\Bin\Engine.dll

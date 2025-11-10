@@ -1,0 +1,67 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\Bin\Shader_Cell.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\Bin\Shader_Deferred.cso
+  Animation.cpp
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Animation.cpp(21,34): warning C4244: '=': 'const unsigned int'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Animation.cpp(23,35): warning C4244: '인수': 'Engine::_float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Animation.cpp(153,35): warning C4244: '인수': 'Engine::_float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Base.cpp
+  Bone.cpp
+  Bounding.cpp
+  Bounding_AABB.cpp
+  Bounding_OBB.cpp
+  Bounding_Sphere.cpp
+  Camera.cpp
+  Cell.cpp
+  Channel.cpp
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Channel.cpp(34,66): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Channel.cpp(44,67): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Channel.cpp(50,67): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Collider.cpp
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(92,20): error C2039: 'Render': 'Engine::CCollider'의 멤버가 아닙니다.
+  C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\public\Collider.h(7,18):
+  'Engine::CCollider' 선언을 참조하십시오.
+  
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(94,20): error C2065: 'm_pBounding': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(97,5): error C2065: 'm_pEffect': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(98,5): error C2065: 'm_pEffect': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(98,24): error C2065: 'm_pGameInstance': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(99,5): error C2065: 'm_pEffect': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(99,30): error C2065: 'm_pGameInstance': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(101,5): error C2065: 'm_pEffect': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(101,22): error C2065: 'm_pContext': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(103,5): error C2065: 'm_pContext': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(103,34): error C2065: 'm_pInputLayout': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(105,5): error C2065: 'm_pBatch': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(107,5): error C2065: 'm_pBounding': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(107,25): error C2065: 'm_pBatch': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(107,43): error C2065: 'm_isColl': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(107,43): warning C4805: '==': 연산에 'bool' 형식과 'unknown-type' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\Collider.cpp(110,5): error C2065: 'm_pBatch': 선언되지 않은 식별자입니다.
+  CollisionMgr.cpp
+  Component.cpp
+  ContainerObject.cpp
+  DebugDraw.cpp
+  Event.cpp
+  EventMgr.cpp
+  GameInstance.cpp
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\GameInstance.cpp(336,24): error C2039: 'Ready_RT_Debug': 'Engine::CGameInstance'의 멤버가 아닙니다.
+  C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\Public\GameInstance.h(12,18):
+  'Engine::CGameInstance' 선언을 참조하십시오.
+  
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\GameInstance.cpp(338,9): error C2065: 'm_pTarget_Manager': 선언되지 않은 식별자입니다.
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\GameInstance.cpp(341,24): error C2039: 'Render_RT_Debug': 'Engine::CGameInstance'의 멤버가 아닙니다.
+  C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\Public\GameInstance.h(12,18):
+  'Engine::CGameInstance' 선언을 참조하십시오.
+  
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Engine\private\GameInstance.cpp(343,9): error C2065: 'm_pTarget_Manager': 선언되지 않은 식별자입니다.
+  GameObject.cpp
+  Graphic_Device.cpp
+  컴파일하고 있습니다...
+  Input_Device.cpp
+  Layer.cpp
+  Level.cpp
+  Level_Manager.cpp

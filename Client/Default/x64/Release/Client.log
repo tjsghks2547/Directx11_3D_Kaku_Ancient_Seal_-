@@ -1,0 +1,35 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_VtxAnimMesh.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_VtxAnimMeshNoDefferd.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_VtxMeshNoDefferd.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_VtxCube.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_VtxMesh.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_VtxNorTex.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_VtxPointInstance.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_VtxPosTex.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_VtxPosTexAge.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_VtxPosTexInstance.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Bin\Shader_Water.cso
+  pch.cpp
+C:\Users\tjsgh\Desktop\12_1_3D개인포폴\1_23_Client\Client\Default\pch.cpp(9,1): error C2857: /Ycstdafx.h 명령줄 옵션과 함께 지정한 '#include' 문이 소스 파일에 없습니다.

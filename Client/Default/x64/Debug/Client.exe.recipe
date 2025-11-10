@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Client.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_VtxAnimMesh.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_VtxAnimMeshNoDefferd.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_VtxMeshNoDefferd.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_VtxCube.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_VtxMesh.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_VtxNorTex.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_VtxPointInstance.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_VtxPosTex.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_VtxPosTexAge.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_VtxPosTexInstance.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tjsgh\Desktop\2_13_final\Client\Bin\Shader_Water.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

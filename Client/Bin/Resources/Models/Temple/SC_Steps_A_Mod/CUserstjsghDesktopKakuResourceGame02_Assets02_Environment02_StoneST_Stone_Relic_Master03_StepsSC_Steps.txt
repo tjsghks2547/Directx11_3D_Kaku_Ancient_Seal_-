@@ -1,0 +1,15 @@
+CUserstjsghDesktopKakuResourceGame02_Assets02_Environment02_StoneST_Stone_Relic_Master03_StepsSC_Steps
+
+
+CSC_Steps_A_Mod
+C:\Users\tjsgh\Desktop\잠시보간\KakuTempleResource\Game\02_Assets\02_Environment\02_Stone\ST_Stone_Relic_Master\05_Skirting\SC_Corner
+
+
+CSC_Corner_D_Mod
+
+
+C:\Users\tjsgh\Desktop\music\Game\02_Assets\01_Character\03_Enemy\M_GuardianP\pose
+C:\Users\tjsgh\Desktop\music\Game\02_Assets\01_Character\03_Enemy\M_GuardianP\pose
+
+
+C:\Users\tjsgh\Desktop\music\Game\02_Assets\01_Character\03_Enemy\M_GuardianP\Texture\
