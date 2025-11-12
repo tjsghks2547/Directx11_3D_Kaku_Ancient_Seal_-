@@ -48,8 +48,6 @@ HRESULT CCamera_Free::Initialize(void * pArg)
 
 	//_vector ScreenCenter = {};
 	
-
-	// 잘못됬네 화면 중앙을 보면 되네 아... 시발 ㅋㅋㅋㅋㅋㅋㅋㅋ
 	_fvector CameraPos =
 	{
 		 XMVectorGetX(m_pPlayerTransformCom->Get_State(CTransform::STATE_POSITION)),	
