@@ -49,6 +49,13 @@ https://youtu.be/7BkLGAA-7Ek
 - 애니메이션
    - Bone 가중치와 행렬을 이용해 스키닝된 메시를 애니메이션 처리함.
    - 루트 애니메이션 데이터를 별도로 분리하여, 애니메이터가 제작한 이동 궤적 및 모션 데이터를 정확히 반영할 수 있도록 구성하였습니다. 이를 통해 보다 자연스러운 이동 및 타격 애니메이션을 구현하였습니다.
+ 
+- Navigation Mesh 구현
+  - 삼각형(Cell) 단위 NavMesh 구성 및 이웃 정보 자동 생성
+  - 동일 Edge 비교를 통해 인접 Cell 연결 구조 구현
+  - Point-In-Triangle 검사로 현재 Cell 판별
+   <img width="1412" height="1178" alt="image" src="https://github.com/user-attachments/assets/843622f9-27c0-4e05-a5cf-e1739d6b5394" />
+
 
 - UI
    - 몬스터의 HP 및 스태미너 바는 Billboard 기법을 활용하여 카메라를 항상 바라보도록 구현하였습니다.
