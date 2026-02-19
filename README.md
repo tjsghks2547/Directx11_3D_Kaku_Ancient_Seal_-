@@ -41,7 +41,7 @@ https://youtu.be/7BkLGAA-7Ek
    
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/83854d84-3aef-4109-9e62-0ea110d29593" />
 
-  ㅁ 구현 코드 링크 : https://seonhwan2547.tistory.com/44 <br>
+  ㅁ 구현 코드 링크 : https://seonhwan2547.tistory.com/44 <br><br>
   
 - 이펙트
   - Instancing 기법을 활용하여 Draw Call을 최소화함으로써 렌더링 성능을 최적화하고, 프레임 드랍을 방지하였습니다.
@@ -60,7 +60,7 @@ https://youtu.be/7BkLGAA-7Ek
   - Point-In-Triangle 검사로 현재 Cell 판별
    <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/843622f9-27c0-4e05-a5cf-e1739d6b5394" />
 
-  ㅁ 구현 코드 링크 : https://seonhwan2547.tistory.com/79 <br>
+  ㅁ 구현 코드 링크 : https://seonhwan2547.tistory.com/79 <br><br>
 
 
 - UI
