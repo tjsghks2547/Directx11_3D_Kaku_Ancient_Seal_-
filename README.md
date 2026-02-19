@@ -38,6 +38,9 @@ https://youtu.be/7BkLGAA-7Ek
       - 디퍼드 렌더링 방식에서 물체의 법선 벡터, 뷰/투영 행렬 역변환, 카메라 위치 등을 활용하여 픽셀 단위로 확산광(Diffuse)과 정반사광(Specular)을 계산하는 Phong 조명 모델 기반의 광원 표현.
   - Water
       - 다중 파동 공식을 이용해 버텍스 셰이더에서 물의 출렁임을 구현하고, 텍스처 uv좌표를 이동하여 흐름감을 줌.
+   
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/83854d84-3aef-4109-9e62-0ea110d29593" />
+
   
 - 이펙트
   - Instancing 기법을 활용하여 Draw Call을 최소화함으로써 렌더링 성능을 최적화하고, 프레임 드랍을 방지하였습니다.
