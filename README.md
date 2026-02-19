@@ -54,7 +54,7 @@ https://youtu.be/7BkLGAA-7Ek
   - 삼각형(Cell) 단위 NavMesh 구성 및 이웃 정보 자동 생성
   - 동일 Edge 비교를 통해 인접 Cell 연결 구조 구현
   - Point-In-Triangle 검사로 현재 Cell 판별
-   <img width="1412" height="1178" alt="image" src="https://github.com/user-attachments/assets/843622f9-27c0-4e05-a5cf-e1739d6b5394" />
+   <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/843622f9-27c0-4e05-a5cf-e1739d6b5394" />
 
 
 - UI
