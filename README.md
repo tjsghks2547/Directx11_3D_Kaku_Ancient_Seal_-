@@ -27,6 +27,10 @@ https://youtu.be/7BkLGAA-7Ek
   - Collision Enter / Stay / Exit 함수를 연결하여 해당 Object의 충돌 상태 확인
   - 충돌체 레이어를 활용하여 최적화
 
+- Map Tool 구현
+  <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/35e87c6c-9715-45f9-99db-b22494a4b946" />
+
+
 - 다양한 셰이더와 렌더타겟 구현
   - Blur
      -  화면 테두리나 이펙트 경계가 거칠게 보이지 않도록, 가우시안 블러(Gaussian Blur) 등을 적용하여 부드럽게 표현.
