@@ -28,7 +28,7 @@ https://youtu.be/7BkLGAA-7Ek
   - 충돌체 레이어를 활용하여 최적화
 
 - Map Tool 구현 <br><br>
-  <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/35e87c6c-9715-45f9-99db-b22494a4b946" />
+  <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/35e87c6c-9715-45f9-99db-b22494a4b946" />
 
 
 - 다양한 셰이더와 렌더타겟 구현
